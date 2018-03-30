@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dong/wav_change/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/dong/wav_change/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,515",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "477,670"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "164,460",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "455,615"
+                    }
+                },
+                {
+                    "source": "/home/dong/wav_change/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,112",
+                        "endColumns": "55,52",
+                        "endOffsets": "107,160"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,52",
+                        "endOffsets": "106,159"
+                    }
+                }
+            ]
+        }
+    ]
+}

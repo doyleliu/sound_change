@@ -1,0 +1,4 @@
+#Fri Mar 30 15:08:19 CST 2018
+base.0=/home/dong/wav_change/app/build/intermediates/transforms/dexMerger/debug/193
+path.0=classes.dex
+renamed.0=classes.dex
